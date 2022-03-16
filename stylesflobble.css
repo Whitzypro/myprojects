@@ -51,7 +51,7 @@ a:hover {
 
   @media screen and (max-width: 600px) {
     .heading {
-        font-size: 3rem;
+        font-size: 2rem;
     }
     .search-box {
         height:auto;
