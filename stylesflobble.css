@@ -51,12 +51,13 @@ a:hover {
 
   @media screen and (max-width: 600px) {
     .heading {
-        font-size: 50%;
+        font-size: 35%;
         text-align: center;
         letter-spacing: 2px;
     }
     .search-box {
         height:auto;
+        width: 100%;
     }
 
     .custom-margin {
