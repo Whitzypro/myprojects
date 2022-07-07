@@ -1,8 +1,4 @@
 import React, { useState } from 'react';
-import img1 from './person1.jpg';
-import img2 from './person2.jpg';
-import img3 from './person3.jpg';
-import img4 from './person4.jpg';
 import img5 from './person5.JPG';
 
 const Person = () => {
